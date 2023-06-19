@@ -1,11 +1,11 @@
-About r-cmdfun
-==============
+About r-cmdfun-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cmdfun-feedstock/blob/main/LICENSE.txt)
 
 Home: https://snystrom.github.io/cmdfun/, https://github.com/snystrom/cmdfun
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cmdfun-feedstock/blob/main/LICENSE.txt)
 
 Summary: Writing interfaces to command line software is cumbersome. 'cmdfun' provides a framework for building function calls to seamlessly interface with shell commands by allowing lazy evaluation of command line arguments. 'cmdfun' also provides methods for handling user-specific paths to tool installs or secrets like API keys. Its focus is to equally serve package builders who wish to wrap command line software, and to help analysts stay inside R when they might usually leave to execute non-R software.
 
